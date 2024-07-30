@@ -6,3 +6,14 @@ We also prove code to use this dataset for a simple classification task with tra
 
 We use pre-trained models from TensorFlow keras library.
 
+
+## Dataset can be downloaded from 
+https://zenodo.org/records/10724993
+
+## Running the model
+- You can use the mc_classifier.py file to run the deepdive classification.
+- it is configured to run with GPU acceleration
+- make sure you have the proper Tensorflow and Keras implementation in your system to run the software.
+
+## Results
+you can expect to see the classification performance of multiple classifiers.  
